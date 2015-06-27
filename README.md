@@ -56,7 +56,7 @@ The template is the next one:
 ## Paint
 - 1 [Pinta](http://pinta-project.com/releases)
 
-## Partition Magin
+## Partition Magic
 - 1 [GParted](http://gparted.org/livecd.php) 	
 
 ## Putty
